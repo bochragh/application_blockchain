@@ -1,0 +1,9 @@
+# application_blockchain
+
+Une application web et blockchain qui permet de gerer les comptes: envoyer et recevoir des coins selon cette technologie et manipuler les transactions 
+
+Ce projet est deployé et implementé par la technologie Blockchain
+
+Language: Solidity , Javascript , Node.js , HTML/CSS
+
+Framework:  Truffle
