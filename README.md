@@ -4,6 +4,8 @@ Une application web et blockchain qui permet de gerer les comptes: envoyer et re
 
 Ce projet est deployé et implementé par la technologie Blockchain
 
-Language: Solidity , Javascript , Node.js , HTML/CSS
+Language: Solidity , Javascript , HTML/CSS
+
 
 Framework:  Truffle
+Utils : Ganache
